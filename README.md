@@ -20,7 +20,7 @@ More activities can include:
 
 ## Application Field
 
-The application build here will comprise of the following fields
+The application for this field will comprise of the following fields
 
 - Machine Learning
 - Music Information Retrieval
