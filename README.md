@@ -54,6 +54,8 @@ Other Python libraries include:
 
 For Ubuntu Users: ```pip install --user numpy scipy matplotlib ipython scikit-learn```
 
+To process mp3 files: ```sudo apt-get install ffmpeg```
+
 ## References
 
 **TO BE UPDATED!**
